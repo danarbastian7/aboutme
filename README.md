@@ -4,6 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Danar Bastian</h1>
 <h3 align="center">I'am currently living in Tokyo, Japan. A passionate frontend developer and backend developer.</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danarbastian7&show_icons=true&locale=en" alt="danarbastian7" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danarbastian7&label=Profile%20views&color=0e75b6&style=flat" alt="danarbastian7" /> </p>
 
@@ -35,4 +37,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danarbastian7&show_icons=true&locale=en&layout=compact" alt="danarbastian7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danarbastian7&show_icons=true&locale=en" alt="danarbastian7" /></p>
