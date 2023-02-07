@@ -2,7 +2,7 @@
 <!-- DEVDOJO:START -->
 <!-- DEVDOJO:END -->
 
-<h1 align="center">Hi 👋, I'm Danar Bastian</h1>
+<h2 align="center">Hi 👋 I'm Danar Bastian</h2>
 <h3 align="center">I'am currently living in Tokyo, Japan. A passionate frontend developer and backend developer.</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danarbastian7&show_icons=true&locale=en" alt="danarbastian7" /></p>
 
